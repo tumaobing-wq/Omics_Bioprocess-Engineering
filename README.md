@@ -1,2 +1,5 @@
 # Omics_Bioprocess-Engineering
-Research projects to related transcriptomics and proteomics
+## Introduction to omics
+
+Research projects to related transcriptomics and proteomics <br>
+Bioprocess egnineering
